@@ -39,11 +39,15 @@ Version Settings.
 ![image](https://user-images.githubusercontent.com/34786411/105119955-a9224100-5b14-11eb-8976-fe8a5e4a176f.png)
 
 ## 기기사진
+![image](https://user-images.githubusercontent.com/34786411/105120328-67de6100-5b15-11eb-8ca2-515b3f56ade9.png)
+
 
 - 라즈베리파이를 이용한 이미지 분석프로그램
 - 실시간 영상처리를 통해 결과를 분석
 - 분석된 결과는 외부 서버에 존재하는 데이터베이스에 기록
-![image](https://user-images.githubusercontent.com/34786411/105120328-67de6100-5b15-11eb-8ca2-515b3f56ade9.png)
+
+
+
 
 ## 작동원리 
 ![image](https://user-images.githubusercontent.com/34786411/105121386-61e97f80-5b17-11eb-9e99-64c7a5fd7d4f.png)
